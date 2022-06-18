@@ -1,6 +1,6 @@
 # OpenMMI
 
-Hi there and welcome to the OpenMMI project. OpenMMI's goal is to create a universal and open MMI system that can be used in many cars using a separate device sending output to your car's display. The project is split up in different components: ui, os, fw, hw) you are a developer and want to contribute, find the component that you are comfortable with and start smashing keys. If you are a user and want to get help then for now the best thing to do is create a GitHub ticket.
+Hi there and welcome to the OpenMMI project. OpenMMI's goal is to create a universal and open MMI system that can be used in many cars using a separate device sending output to your car's display. OpenMMI will come with some custom made features but will also support Apple CarPlay and Google Car. The intent is actually to let either of those be responsible for apps in the form of music, navigation, etc. The project is split up in different components: ui, os, fw, hw) you are a developer and want to contribute, find the component that you are comfortable with and start smashing keys. If you are a user and want to get help then for now the best thing to do is create a GitHub ticket.
 
 ## User Interface (ui)
 
