@@ -26,7 +26,7 @@ Everything the user will see. The user interface will be created using Flutter a
 
 ### Operating System (os)
 
-The operating system. Embedded linux capable of running the ui and with drivers for the (to be decided) boards.
+The operating system. Embedded linux capable of running the ui and with drivers for the (to be decided) boards and the required packages and libraries to run Flutter applications. 
 
 ### Firmware (fw)
 
