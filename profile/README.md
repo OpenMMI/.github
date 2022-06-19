@@ -4,7 +4,7 @@ Hi there and welcome to the OpenMMI project. OpenMMI's goal is to create a unive
 
 ## User Interface (ui)
 
-Everything the user will see. The user interface will be created using Flutter and build for Linux.
+Everything the user will see. The user interface will be created using Flutter and build for Linux but tested on Android for simplicity.
 
 ## Operating System (os)
 
