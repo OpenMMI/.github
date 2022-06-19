@@ -1,5 +1,7 @@
 # OpenMMI
 
+![Screenshot_1655635057](https://user-images.githubusercontent.com/580758/174476903-b4f0f0e2-09ef-4693-b9ab-0728887437f0.png)
+
 Hi there and welcome to the OpenMMI project. OpenMMI's goal is to create a universal and open MMI system that can be used in many cars using a separate device sending output to your car's display.  If you are a user and want to get help then for now the best thing to do is create a GitHub ticket.
 
 ## Key Features
